@@ -1,0 +1,23 @@
+{
+  "M1": {
+    "cartError": "Your cart is empty. Add at least one item to check out.",
+    "confirmationVisible": false,
+    "nameKept": "Asha Verma"
+  },
+  "M2a": {
+    "confirmations": 1,
+    "visibleConfirmations": 1,
+    "reference": "ORD-AT4HAC"
+  },
+  "M2b": {
+    "confirmations": 1,
+    "references": [
+      "ORD-FCJJG3"
+    ]
+  },
+  "M3": {
+    "nameError": "Please enter your full name to place the order.",
+    "confirmationVisible": false,
+    "orderTotal": "$60.00"
+  }
+}
